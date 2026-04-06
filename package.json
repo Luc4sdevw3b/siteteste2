@@ -1,0 +1,16 @@
+{
+  "name": "desafio-aula-7",
+  "version": "1.0.0",
+  "description": "dependências necesárias para o projeto",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "Lucas Leonel",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
